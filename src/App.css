@@ -1,38 +1,83 @@
-.App {
-  text-align: center;
-}
+@import url('https://fonts.googleapis.com/css2?family=Marcellus+SC&family=Rubik+Moonrocks&display=swap');
+/* font-family: 'Marcellus SC', serif;
+font-family: 'Rubik Moonrocks', cursive; */
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* Reset */
+/* just like we used to write css */
+*,*::before,*::after{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+body{
+  line-height: 1.3;
+  height: 100vh;
+  width: 100vw;
+  overflow-x: hidden;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+}
+.App{
+  min-height:30rem;
+  width:30rem;
 }
 
-.App-link {
-  color: #61dafb;
+.App h2,.App h3{
+  font-size:3rem;
+  color:orangered;
+  margin:0;
+  text-align: center;
+  font-family: 'Rubik Moonrocks', cursive;
+}
+.App h3{
+  font-size:2.2rem;
+  margin:10px;
+}
+.header button:hover{
+  transform: scale(1.008);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.todoHolder{
+font-size:1.4rem;
+font-weight: 500;
+font-family: 'Marcellus SC', serif;
+position: relative;
+}
+.todoHolder input{
+  text-align: justify;
+  margin:5px;
+  height: 1rem;
+  width:1rem;
+  padding:5px;
+  cursor: pointer;
+}
+/* reso pon sive ness */
+@media screen and (max-width:490px){
+  .App{
+    width:20rem;
   }
-  to {
-    transform: rotate(360deg);
+  .App h2{
+    font-size:2.2rem;
+  }
+  .App h3{
+    font-size: 2rem;
+  }
+  .header button{
+    font-size:1.1rem  !important;
+    padding:3px !important;
+  }
+  .header input{
+    font-size:1rem !important;
+    height:2.2rem !important;
+  }
+  .header input,.header button{
+    border:1px solid orangered !important;
+  }
+  .todoHolder{
+    font-size:1.1rem;
+  }
+  .para p{
+    font-size: 1.2rem !important;
   }
 }
