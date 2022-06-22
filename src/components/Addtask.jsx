@@ -30,7 +30,7 @@ class Addtask extends Component {
                     placeholder='Enter your task'
                     value={this.state.title}
                     onChange={this.inputReceive}
-                    />,
+                    />
                     <button type='submit' id="addBtn" style={addbtnStyle}>Add</button>
                 </form>
             </header>
