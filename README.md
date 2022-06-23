@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+
+<p align="center"><img src="https://user-images.githubusercontent.com/95040233/175240087-2526730f-dfcf-4ca0-9595-9e82bfb0e198.png"></p>
+
+# Simple Task App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
