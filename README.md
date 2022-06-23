@@ -1,4 +1,3 @@
-
 <p align="center"><img src="https://user-images.githubusercontent.com/95040233/175240087-2526730f-dfcf-4ca0-9595-9e82bfb0e198.png"></p>
 
 # Simple Task App
