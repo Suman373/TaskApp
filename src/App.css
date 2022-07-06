@@ -75,10 +75,10 @@ position: relative;
   }
   .header input{
     font-size:1rem !important;
-    height:2.2rem !important;
   }
   .header input,.header button{
     border:1px solid orangered !important;
+    height:2.2rem !important;
   }
   .todoHolder{
     font-size:1.1rem;
