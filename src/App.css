@@ -38,6 +38,12 @@ body{
   transform: scale(1.008);
 }
 
+.add-task-form {
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
 .todoHolder{
 font-size:1.4rem;
 font-weight: 500;

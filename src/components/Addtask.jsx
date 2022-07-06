@@ -23,7 +23,7 @@ class Addtask extends Component {
     render() {
         return (
             <header className='header'>
-                <form onSubmit={this.inputSave} style={formStyle}>
+                <form onSubmit={this.inputSave} className="add-task-form">
                     <input type="text" 
                     name="task" 
                     style={addInputStyle} 
@@ -37,28 +37,26 @@ class Addtask extends Component {
         )
     }
 }
-const addInputStyle = {
-    fontSize: '1.2rem',
-    height: '2.5rem',
-    margin: '1rem auto',
-    padding: '5px',
-    width: '85%',
-    border: '2px solid orangered',
-    outline: 'none',
-    fontFamily: 'Marcellus SC,serif'
 
-}
+const addInputStyle = {
+    fontSize: "1.2rem",
+    height: "2.5rem",
+    margin: "1rem 0",
+    padding: "5px",
+    width: "85%",
+    border: "2px solid orangered",
+    outline: "none",
+    fontFamily: "Marcellus SC,serif",
+};
 const addbtnStyle = {
-    fontSize: '1.2rem',
-    padding: '7px',
-    color: 'orangered',
-    cursor: 'pointer',
-    background: '#f7f2aa',
-    border: '2px solid orangered'
-}
-const formStyle = {
-    display: 'flex',
-    alignItems: 'center'
+  fontSize: "1.2rem",
+    padding: "7px",
+    color: "orangered",
+    cursor: "pointer",
+    background: "#f7f2aa",
+    border: "2px solid orangered",
+    width: "12.5%",
+    height: "2.5rem"
 }
 
 export default Addtask;
