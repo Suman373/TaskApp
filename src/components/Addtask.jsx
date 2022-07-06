@@ -23,7 +23,8 @@ class Addtask extends Component {
     render() {
         return (
             <header className='header'>
-                <form onSubmit={this.inputSave} style={formStyle}>
+                <form onSubmit={this.inputSave} className="add-task-form">
+
                     <input type="text" 
                     name="task" 
                     style={addInputStyle} 
@@ -57,11 +58,6 @@ const addbtnStyle = {
     border: "2px solid orangered",
     width: "12.5%",
     height: "2.5rem",
-};
-const formStyle = {
-    display: "flex",
-    justifyContent: "space-between",
-    alignItems: "center",
 };
 
 export default Addtask;
