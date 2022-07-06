@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/95040233/175240087-2526730f-dfcf-4ca0-9595-9e82bfb0e198.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/95040233/177475792-3cd98684-a5a3-4c38-97f9-62e1de70093c.png"></p>
 
 # Simple Task Application
 
