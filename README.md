@@ -1,6 +1,10 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/95040233/177475792-3cd98684-a5a3-4c38-97f9-62e1de70093c.png"></p>
 
-# Simple Task Application
+# Simple Task Application 📑
+
+### A project for Open source contributers who are looking to start their journey 🎉
+
+### Pre-requisites : Knowledge of HTML5, CSS3, Javascript, React(basics will do) 😀
 
 ## Getting Started with Create React App
 
@@ -31,7 +35,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-## Author : [Suman373](https://github.com/Suman373)
+### Author : [Suman373](https://github.com/Suman373)
 
 ## Badge
 
@@ -43,8 +47,8 @@ Your app is ready to be deployed!
 ![Netlify()](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![Html()](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS()](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Javascript()](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
-## Contribution
+## Contribution Guidelines
 
-Beginners are welcomed to contribute to this project. Make sure to use a proper commit message with a brief description, then pull request. Thank you!
+Beginners are welcomed and encouraged to contribute to this project. Provide **snapshots** of the application after the changes you have made in the comment section of the issue. Make sure to use a proper commit message with a brief description, then **pull request**. Let's collaborate and learn together! 🤝
  
  ### Made with React & &#10084;
