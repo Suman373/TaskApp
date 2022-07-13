@@ -1,8 +1,8 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/95040233/177475792-3cd98684-a5a3-4c38-97f9-62e1de70093c.png"></p>
 
-# Simple Task Application 📑
+<h1 align="center"> Simple Task Application 📑 </h1>
 
-### A project for Open source contributers who are looking to start their journey 🎉
+<h2 align="center">A project for Open source contributers who are looking to start their journey 🎉 </h2>
 
 ### Pre-requisites : Knowledge of HTML5, CSS3, Javascript, React(basics will do) 😀
 
@@ -34,8 +34,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-### Author : [Suman373](https://github.com/Suman373)
 
 ## Badge
 
