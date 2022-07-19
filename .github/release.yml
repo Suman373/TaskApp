@@ -7,11 +7,7 @@ changelog:
     labels:
       - ignore-for-release
     authors:
-<<<<<<< HEAD
       - Suman373
-=======
-      - suman373
->>>>>>> 350310163d4012edafe35ba605a67c98a01052b7
   categories:
     - title: Breaking Changes 🛠
       labels:
@@ -23,8 +19,4 @@ changelog:
         - enhancement
     - title: Other Changes
       labels:
-<<<<<<< HEAD
         - "*"
-=======
-        - "*"
->>>>>>> 350310163d4012edafe35ba605a67c98a01052b7
